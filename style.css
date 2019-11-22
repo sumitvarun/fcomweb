@@ -1,0 +1,20 @@
+.mid-container{
+    background-color: lightsteelblue;
+}
+
+.mid-container:hover{
+    background-color: black;
+    transition-duration: 4s;
+}
+.top-container{
+    background-color: lightyellow;
+}
+.top-container:hover{
+    background-color:;
+}
+.top-Container1{
+    background-color: lightyellow;
+}
+.top-Container1:hover{
+    background-color:;
+}
