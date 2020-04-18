@@ -1,5 +1,6 @@
 .mid-container{
     background-color: lightsteelblue;
+    position : fixed;
 }
 
 .mid-container:hover{
